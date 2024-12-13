@@ -1,2 +1,7 @@
 # Python-QR-Code-Generator
-This is code for QR code generator with python
+Pastikan download qr code dan pillow dulu, jika belum maka ketik
+
+pip install qrcode[pil]        di terminal, untuk meng-cek maka ketik pip show qrcode
+pip show Pillow
+
+
